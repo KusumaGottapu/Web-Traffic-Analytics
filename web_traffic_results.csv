@@ -1,0 +1,16 @@
+SessionID,UserID,Page,PageViews,SessionDuration,TrafficSource,Device,ExitPage,Converted
+1,101,Home,5,300,Google,Mobile,Checkout,Yes
+2,102,Products,3,180,Social Media,Desktop,Products,No
+3,103,Home,2,60,Direct,Mobile,Home,No
+4,104,Contact,1,20,Google,Mobile,Contact,No
+5,105,Home,6,420,Direct,Desktop,Checkout,Yes
+6,106,Products,4,240,Social Media,Mobile,Pricing,No
+7,107,Pricing,2,90,Google,Desktop,Pricing,No
+8,108,Home,3,150,Direct,Mobile,Products,No
+9,109,Products,5,360,Google,Desktop,Checkout,Yes
+10,110,Home,1,15,Social Media,Mobile,Home,No
+11,111,Pricing,4,210,Direct,Desktop,Checkout,Yes
+12,112,Contact,2,45,Google,Mobile,Contact,No
+13,113,Home,6,480,Google,Desktop,Checkout,Yes
+14,114,Products,3,120,Social Media,Mobile,Products,No
+15,115,Home,2,75,Direct,Mobile,Home,No
